@@ -1,9 +1,16 @@
-This is free and unencumbered software released into the public domain.
+This is free and unencumbered software released into the public domain,
+under the following conditions:
+
+The software must not be used or distrbuted in binary or source form
+for the intention of circumventing Intellectual Property laws in any 
+jurisdictions that recognize copyright laws, nor can it be used for 
+the intention of downloading copywrited content which is not released
+in the Public Domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
 binary, for any purpose, commercial or non-commercial, and by any
-means.
+means, with the exception of the aforementioned conditions. 
 
 In jurisdictions that recognize copyright laws, the author or authors
 of this software dedicate any and all copyright interest in the
@@ -20,5 +27,3 @@ IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
 OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <http://unlicense.org/>
