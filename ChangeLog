@@ -1,3 +1,8 @@
+version 2020.10.30
+
+Extractors
+* [youtube] Fix "Unable to extract JS player URL" (#12)
+
 version 2020.09.20
 
 Core
