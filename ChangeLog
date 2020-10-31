@@ -1,3 +1,12 @@
+version 2020.10.31
+
+Core
++ [release] Fix release tarball not being properly generated
+* [readme] Fix download link for Unix users
+
+Extractors
+* [youtube] Re-add age restriction test (#14)
+
 version 2020.10.30
 
 Extractors
