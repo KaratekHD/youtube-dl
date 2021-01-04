@@ -1,7 +1,8 @@
-[![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
+[![Build Status](https://travis-ci.com/l1ving/youtube-dl.svg?branch=master)](https://travis-ci.com/l1ving/youtube-dl)
 
 youtube-dl - download videos from youtube.com or other video platforms
 
+- [CHANGES](#changes)
 - [INSTALLATION](#installation)
 - [DESCRIPTION](#description)
 - [OPTIONS](#options)
@@ -14,6 +15,14 @@ youtube-dl - download videos from youtube.com or other video platforms
 - [EMBEDDING YOUTUBE-DL](#embedding-youtube-dl)
 - [BUGS](#bugs)
 - [COPYRIGHT](#copyright)
+
+# CHANGES 
+
+You can view the changes made to ytdl-org/youtube-dl [here](https://github.com/l1ving/youtube-dl/compare/416da574ec0df3388f652e44f7fe71b1e3a4701f...master)
+
+You can view the archived tags here: [youtube-dl/releases](https://github.com/l1ving/youtube-dl/releases)
+
+You can view the archived unmerged pull requests here: [youtube-dl/tree/archive/recovered-github-prs](https://github.com/l1ving/youtube-dl/tree/archive/recovered-github-prs)
 
 # INSTALLATION
 
