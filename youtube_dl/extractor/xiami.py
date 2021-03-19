@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 
 from .common import InfoExtractor
 from ..compat import compat_urllib_parse_unquote
-from ..utils import int_or_none
+from ..utils import int_or_none, ExtractorError
 
 
 class XiamiBaseIE(InfoExtractor):
@@ -46,6 +46,8 @@ class XiamiBaseIE(InfoExtractor):
             item_id, headers={
                 'Referer': referer,
             })
+        if 'message' in playlist and playlist['message']:
+            raise ExtractorError(playlist['message'], expected=True)
         return [
             self._extract_track(track, item_id)
             for track in playlist['data']['trackList']]
